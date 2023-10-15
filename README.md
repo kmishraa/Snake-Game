@@ -21,7 +21,7 @@ The JavaScript code is responsible for the game's logic, including handling user
 
 This classic Snake Game is not only entertaining but also serves as an excellent example of how HTML, CSS, and JavaScript can be used to create interactive web-based games. It demonstrates the power of these web technologies to provide a rich user experience without the need for additional plugins or software installations."
 
-project link: 
+project link: https://snakeworldgame.netlify.app/
 ![image](https://github.com/kmishraa/Snake-Game/assets/104066423/4206973d-79e6-4381-8bb5-5875e8c5eed8)
 
 
