@@ -7,7 +7,7 @@ The game's components and mechanics are as follows:
 
 2. Snake: The player controls a snake, usually represented by a series of connected squares or cells. The snake starts with a single cell and grows longer as it consumes food.
 
-3.Food: Food items appear randomly on the grid. When the snake's head collides with a food item, the snake 'eats' it, and its length increases.
+3. Food: Food items appear randomly on the grid. When the snake's head collides with a food item, the snake 'eats' it, and its length increases.
 
 4.Controls: The player uses arrow keys (Up, Down, Left, and Right) to change the snake's direction. The snake moves continuously in its current direction until directed otherwise.
 
