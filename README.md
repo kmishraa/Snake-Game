@@ -11,7 +11,7 @@ The game's components and mechanics are as follows:
 
 4. Controls: The player uses arrow keys (Up, Down, Left, and Right) to change the snake's direction. The snake moves continuously in its current direction until directed otherwise.
 
-5.Game Over Conditions: The game can end in various ways. The primary game-over conditions include the snake colliding with the game boundaries (the grid's walls) or colliding with itself (e.g., when the snake's head touches any part of its body).
+5. Game Over Conditions: The game can end in various ways. The primary game-over conditions include the snake colliding with the game boundaries (the grid's walls) or colliding with itself (e.g. when the snake's head touches any part of its body).
 
 6.Score: The game keeps track of the player's score, which increases every time the snake eats a food item. The score is usually displayed on the screen.
 
