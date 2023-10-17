@@ -1,5 +1,5 @@
 # Snake-Game
-The Snake Game is a classic             and popular web-based game that is implemented using a combination of HTML, CSS, and JavaScript. In this game, players control a snake on a grid or canvas using arrow keys. The objective is to guide the snake to consume food items, which appear at random positions on the grid. As the snake eats the food, it grows longer, increasing the level of challenge.
+The Snake Game is a classic            and popular web-based game that is implemented using a combination of HTML, CSS, and JavaScript. In this game, players control a snake on a grid or canvas using arrow keys. The objective is to guide the snake to consume food items, which appear at random positions on the grid. As the snake eats the food, it grows longer, increasing the level of challenge.
 
 The game's components and mechanics are as follows:
 
