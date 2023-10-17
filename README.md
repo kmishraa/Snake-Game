@@ -9,7 +9,7 @@ The game's components and mechanics are as follows:
 
 3. Food: Food items appear randomly on the grid. When the snake's head collides with a food item, the snake 'eats' it, and its length increases.
 
-4.Controls: The player uses arrow keys (Up, Down, Left, and Right) to change the snake's direction. The snake moves continuously in its current direction until directed otherwise.
+4. Controls: The player uses arrow keys (Up, Down, Left, and Right) to change the snake's direction. The snake moves continuously in its current direction until directed otherwise.
 
 5.Game Over Conditions: The game can end in various ways. The primary game-over conditions include the snake colliding with the game boundaries (the grid's walls) or colliding with itself (e.g., when the snake's head touches any part of its body).
 
