@@ -5,7 +5,7 @@ The game's components and mechanics are as follows:
 
 1. Grid or Canvas: The game interface is typically a grid or canvas element created using HTML and styled with CSS. This grid serves as the playing area where the snake moves and grows.
 
-2. Snake: The player controls a snake, usually represented by a series of connected squares or cells.The snake starts with a single cell and grows longer as it consumes food.
+2. Snake: The player controls a snake, usually represented by a series of connected squares or cells.The     snake starts with a single cell and grows longer as it consumes food.
 
 3. Food: Food items appear randomly on the grid. When the snake's head collides with a food item, the snake 'eats' it, and its length increases.
 
