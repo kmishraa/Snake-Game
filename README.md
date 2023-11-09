@@ -3,7 +3,7 @@ The Snake Game is a classic  and popular web-based game that is implemented usin
 
 The game's components and mechanics are as follows:
 
-1. Grid or Canvas:  The game interface is typically a grid or canvas element created using HTML and styled with CSS. This grid serves as the playing area where the snake moves and grows.
+1. Grid or Canvas: The game interface is typically a grid or canvas element created using HTML and styled with CSS. This grid serves as the playing area where the snake moves and grows.
 
 2. Snake: The player controls a snake, usually represented by a series of connected squares or cells.The snake starts with a single cell and grows longer as it consumes food.
 
